@@ -1,5 +1,5 @@
 # Baby-Crying-Animation
-**Animation with css**
+**Animation developed with html/css**
 
 - [Demo Project](https://user-images.githubusercontent.com/121185931/212440502-e513ea56-e04d-4fc2-808d-e17f4ddb19fa.mp4
 )
